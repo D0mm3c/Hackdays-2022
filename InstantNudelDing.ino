@@ -11,7 +11,6 @@ const int nudel_button = 4;
 const int nudel_servo1 = 8;
 const int pulver_servo = 7;
 const int wasser_servo = 6;
-//const int
 
 int wasserButtonPressed;
 int pulverButtonPressed;
